@@ -1,9 +1,8 @@
-![WhatsApp Image 2021-03-11 at 13 50 00](https://user-images.githubusercontent.com/79174165/110792308-7fafa700-8273-11eb-9dac-ee2a14fd7251.jpeg)
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/TxC-Toxic/SatanV8
+> git clone https://github.com/Xanarchy820/Xbot
 ```
 
 ## Install the dependencies:
@@ -11,7 +10,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd SatanV8
+> cd Xbot
 > bash install.sh
 ```
 
